@@ -1,0 +1,6 @@
+Mampat 1.6.2 adalah pembaruan kecil. Berikut yang berubah:
+
+- Preset Baru: Preset bawaan telah diperbarui mengikuti perubahan di platform masing-masing
+- Slider Ukuran Target yang Lebih Baik: Slider ukuran target ditingkatkan agar lebih mudah memilih ukuran yang benar-benar Anda inginkan
+- Inti yang Diperbarui: Komponen inti Media3 yang menjalankan Mampat telah diperbarui ke versi terbaru
+- Perbaikan Bug: Berbagai bug dan masalah telah diperbaiki
