@@ -1,0 +1,42 @@
+name: Permintaan Fitur
+description: Saya ingin melihat fitur baru di Mampat
+title: "[FITUR] "
+labels: ["Enhancement", "Triage"]
+body:
+  - type: textarea
+    id: feature_request
+    attributes:
+      label: "Permintaan Fitur"
+      description: "Jelaskan fitur yang ingin Anda tambahkan ke Mampat"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_behaviour
+    attributes:
+      label: "Perilaku Saat Ini"
+      description: "Jika ada, jelaskan apa yang saat ini terjadi di Mampat"
+    validations:
+      required: false
+
+  - type: textarea
+    id: device_info
+    attributes:
+      label: "Info Perangkat"
+      description: "Mohon isi kolom wajib (bertanda bintang *) agar kami tahu apakah fitur ini dibutuhkan karena perangkat Anda atau layak ditambahkan ke Mampat"
+      value: |
+        - Model Perangkat* (mis. Galaxy S10): 
+        - Versi Android* (mis. 12): 
+        - Chipset Perangkat (mis. Exynos 9820): 
+        - Nomor Model Perangkat (mis. SM-G973F): 
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: disclaimer
+    attributes:
+      label: "Pernyataan"
+      description: "Dengan membuat laporan ini, saya setuju bahwa:"
+      options:
+        - label: "Saya sudah menambahkan judul yang valid pada laporan saya"
+          required: true
