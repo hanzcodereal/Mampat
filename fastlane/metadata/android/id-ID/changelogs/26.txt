@@ -1,0 +1,4 @@
+Mampat 1.6.3 adalah pembaruan kecil. Berikut yang berubah:
+
+- Perbaikan UI: Beberapa bagian UI telah diperbaiki dan disempurnakan
+- Perbaikan Bug: Memperbaiki bug yang memengaruhi sebagian pengguna
