@@ -1,0 +1,7 @@
+Mampat 1.1.1 adalah rilis perbaikan bug:
+
+- Mencegah video asli tersimpan selamanya di cache dengan membersihkan cache setelah kompresi selesai
+- Memperbaiki penghitung penyimpanan yang dihemat tidak diperbarui sampai aplikasi dimulai ulang
+- Memperbaiki penghitung penyimpanan yang dihemat hanya menampilkan hasil video terakhir
+- 60fps tidak lagi bisa dipilih untuk video dengan frame rate asli di bawah 60fps
+- Perkiraan penyimpanan akhir kini dihitung lebih akurat
