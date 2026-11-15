@@ -1,0 +1,6 @@
+Mampat 1.6.1 adalah pembaruan kecil. Berikut yang berubah:
+
+- Pembuat nama file: Tambahkan lebih banyak informasi (atau hapus) dari nama file Anda di Pengaturan
+- Algoritma Penyesuaian Otomatis yang Lebih Baik: Penyesuaian pengaturan otomatis kini bekerja lebih baik. Pengaturan yang Anda ubah akan dikunci dan Anda akan melihat peringatan jika ukuran target tidak memungkinkan.
+- Penyempurnaan UI: Berbagai bagian UI telah diperbaiki dan disempurnakan.
+- Perbaikan Bug: Berbagai bug di Pengaturan telah diperbaiki + Mampat kini berinstans tunggal, jadi tidak ada lagi tumpukan di aplikasi terbaru!
