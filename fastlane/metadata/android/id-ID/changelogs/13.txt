@@ -1,0 +1,1 @@
+Mampat 1.3.3 adalah rilis patch tunggal untuk memperbaiki encoder AV1 yang tidak muncul di perangkat Google Pixel yang didukung setelah memasang 1.3.2.
