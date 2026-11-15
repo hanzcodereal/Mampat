@@ -1,0 +1,7 @@
+Mampat 1.2.0 menambahkan fitur baru:
+
+- Tampilan khusus tablet untuk kegunaan yang lebih baik dalam mode lanskap
+- Preset ukuran target yang lebih besar dari ukuran video asli kini disembunyikan
+- Preset kualitas tidak lagi memperbesar video (yang menghasilkan file lebih besar dari perlu dengan kualitas lebih buruk)
+- Codec video yang tidak kompatibel kini ditangani dengan baik
+- Menghapus izin `ACCESS_NETWORK_STATE` yang ditambahkan oleh sebuah pustaka
