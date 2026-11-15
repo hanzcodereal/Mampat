@@ -1,0 +1,73 @@
+name: Laporan Bug
+description: Ada yang tidak berfungsi di Mampat
+title: "[BUG] "
+labels: ["Bug", "Triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Deskripsi Masalah"
+      description: "Jelaskan masalah Anda dengan minimal 2 kalimat atau poin."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Perilaku yang Diharapkan"
+      description: "Jelaskan perilaku yang Anda harapkan dengan minimal 2 kalimat atau poin."
+    validations:
+      required: true
+
+  - type: textarea
+    id: device_info
+    attributes:
+      label: "Info Perangkat"
+      description: |
+        Kolom bertanda bintang (*) wajib diisi, sisanya opsional tetapi sangat disarankan.
+        Buka Mampat, ketuk ikon Pengaturan di pojok kanan atas, ketuk "Mampat", gulir ke bawah, ketuk Salin ke Papan Klip, lalu tempel di bawah.
+      value: |
+        Produsen Perangkat* (mis. Samsung): 
+        - Model Perangkat* (mis. Galaxy S10): 
+        - Versi Android* (mis. 12): 
+        - Versi Mampat* (mis. 1.6.5): 
+        - Dari mana Anda mendapatkan Mampat?*: 
+        - Chipset Perangkat (mis. Exynos 9820): 
+        - Nomor Model Perangkat (mis. SM-G973F): 
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Tangkapan Layar"
+      description: "Tangkapan layar wajib dilampirkan, kecuali jika aplikasi tidak bisa dibuka."
+    validations:
+      required: false
+
+  - type: textarea
+    id: logcat
+    attributes:
+      label: "Logcat"
+      description: |
+        Logcat sangat disarankan, atau wajib jika masalah terkait aplikasi tidak bisa dibuka/crash/tidak ada error di tangkapan layar.
+      placeholder: "Seret & lepas atau tempel logcat Anda di sini"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: prerequisites
+    attributes:
+      label: "Prasyarat"
+      description: "Mohon konfirmasi semua hal berikut sebelum mengirim"
+      options:
+        - label: "Saya sudah memeriksa bahwa tidak ada laporan terbuka yang sama atau mirip dengan laporan saya"
+          required: true
+        - label: "Saya sudah mengisi semua kolom wajib sebaik mungkin"
+          required: true
+        - label: "Saya sudah menyalin info perangkat & aplikasi dan menempelkannya di bagian info perangkat"
+          required: true
+        - label: "Saya sudah melampirkan tangkapan layar dan file log yang sesuai"
+          required: true
+        - label: "Saya sudah memberi judul pada laporan saya"
+          required: true
