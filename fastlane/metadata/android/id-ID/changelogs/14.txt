@@ -1,0 +1,7 @@
+Mampat 1.4.0 menambahkan fitur baru:
+- Kompresi audio dan pemilih bitrate
+- Terjemahan bahasa baru
+- Antarmuka yang lebih baik: chip "Asli" kini menampilkan nilai asli, resolusi dan frame rate akhir kini tampil di bawah perkiraan ukuran, penanda Lebih Hemat/Seimbang/Kualitas Lebih Tinggi pada slider ukuran target, dan ukuran target kini tampil di atas slider
+
+Perbaikan Bug:
+- Tombol "Tampilkan Bitrate" kini tersimpan setelah aplikasi dimulai ulang
