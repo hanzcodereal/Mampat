@@ -1,0 +1,4 @@
+Mampat 1.6.5 adalah pembaruan kecil. Mohon maaf atas keterlambatannya, berikut yang berubah:
+
+- Aksesibilitas Lebih Baik: Mampat kini menyesuaikan dengan baik di ukuran layar atau font apa pun
+- Perbaikan Bug: Lebih banyak bug dibereskan agar Mampat tetap stabil
