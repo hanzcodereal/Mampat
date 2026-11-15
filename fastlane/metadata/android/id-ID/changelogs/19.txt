@@ -1,0 +1,8 @@
+Mampat 1.5.4 menambahkan fitur baru:
+- Nama file asli kini dipertahankan
+- Merapikan kode dan menghapus fungsi yang tidak terpakai
+
+Perbaikan bug:
+- Memperbaiki deteksi frame rate untuk kasus langka
+
+Mampat 1.5.4 kini menargetkan Android 17 (SDK 37). Ini tidak memengaruhi kompatibilitas perangkat, Android 7.0 ke atas tetap didukung. AGP telah ditingkatkan ke 9.1.1.
