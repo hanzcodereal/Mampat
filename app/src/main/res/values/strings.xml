@@ -1,0 +1,279 @@
+<resources>
+    <string name="app_name">Mampat</string>
+    <string name="title_compressor">Mampat</string>
+    <string name="share">Bagikan</string>
+    <string name="saved">Tersimpan</string>
+    <string name="saving">Menyimpan…</string>
+    <string name="save_action">Simpan</string>
+    <string name="save_to_photos">Simpan ke Galeri</string>
+    <string name="compress_another_video">Kompres Video Lain</string>
+    <string name="buy_coffee">💛 Suka dengan Mampat? Dukung developer!</string>
+    <string name="share_video_title">Bagikan Video Terkompresi</string>
+    <string name="share_error">Tidak dapat membagikan: %1$s</string>
+    <string name="original">Asli</string>
+    <string name="estimated">Perkiraan</string>
+
+    <!-- Preset -->
+    <string name="preset_high">Tinggi</string>
+    <string name="preset_high_desc">Hanya optimalkan bitrate</string>
+    <string name="preset_medium">Sedang</string>
+    <string name="preset_medium_desc">1080p • 30fps</string>
+    <string name="preset_low">Rendah</string>
+    <string name="preset_low_desc">720p • 30fps</string>
+
+    <string name="quality_preset">Ubah Kualitas Video</string>
+    <string name="header_quality_presets">Preset Kualitas</string>
+    <string name="target_size_limits">Preset Ukuran Target</string>
+    <string name="advanced_options">Opsi Lanjutan</string>
+    <string name="target_size">Ukuran Target</string>
+    <string name="encoding">Pengodean</string>
+    <string name="av1_high_efficiency">AV1 (Cepat • Efisien)</string>
+    <string name="h265_efficient">H.265 (Efisien)</string>
+    <string name="h264_compat">H.264 (Kompatibel)</string>
+
+    <string name="delete_original">Hapus Video Asli</string>
+    <string name="delete_original_success">Video berhasil dihapus</string>
+    <string name="delete_original_failed">Gagal menghapus video</string>
+    <string name="delete_confirm_title">Hapus Video Asli?</string>
+
+    <string name="info_title">Info Perangkat &amp; Aplikasi</string>
+    <string name="info_copy_clipboard">Salin ke Papan Klip</string>
+    <string name="info_copied">Disalin ke papan klip</string>
+    <string name="show_bitrate">Tampilkan Bitrate</string>
+    <string name="bitrate_unit_mbps">Mbps</string>
+
+    <string name="resolution">Resolusi</string>
+    <string name="audio_options">Opsi Audio</string>
+    <string name="audio_bitrate">Bitrate Audio</string>
+    <string name="volume">Volume</string>
+    <string name="remove_audio">Hapus Audio</string>
+    <string name="framerate">Frame Rate</string>
+    <string name="fps_60">60fps</string>
+    <string name="fps_30">30fps</string>
+    <string name="start_compression">Mulai Kompresi</string>
+    <string name="warning_hdr_tone_mapped">Video HDR diubah (tone-map) ke SDR untuk menghindari masalah kompatibilitas encoder di perangkat ini. Gunakan AV1 jika ingin mempertahankan HDR.</string>
+    <string name="warning_details">Detail Peringatan</string>
+    <string name="dismiss">Tutup</string>
+    <string name="target_size_warning">Ukuran target tidak memungkinkan, ketuk untuk info</string>
+    <string name="target_size_warning_title">Ukuran target mungkin tidak tercapai</string>
+    <string name="target_size_warning_details">Beberapa pengaturan perlu diturunkan agar ukuran target yang diminta dapat tercapai.</string>
+    <string name="accept_suggestion">Terima saran</string>
+    <string name="accept_all">Terima Semua</string>
+    <string name="close">Tutup</string>
+
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="select_video">Pilih video untuk dikompres</string>
+    <string name="add_video_desc">Tambah Video</string>
+    <string name="total_saved">Anda sudah menghemat %1$s penyimpanan dengan Mampat</string>
+
+    <string name="slider_less_space">Lebih Hemat</string>
+    <string name="slider_balanced">Seimbang</string>
+    <string name="slider_high_quality">Kualitas Lebih Tinggi</string>
+
+    <string name="compression_complete">Kompresi Selesai!</string>
+    <string name="compressing_video_label">MENGOMPRES VIDEO</string>
+    <string name="cancel">Batal</string>
+
+    <!-- Error -->
+    <string name="error_file_lost">File hilang</string>
+    <string name="error_export_failed">Ekspor gagal: %1$s</string>
+    <string name="error_save_failed">Gagal menyimpan: %1$s</string>
+    <string name="error_gallery_entry">Tidak dapat membuat entri galeri</string>
+    <string name="error_unknown">Error tidak diketahui</string>
+    <string name="error_codec_unsupported">Codec video ini tidak didukung oleh perangkat keras perangkat Anda.</string>
+    <string name="error_decoder_config_unsupported">Perangkat ini tidak dapat mendekode konfigurasi video sumber ini.</string>
+    <string name="error_encoder_config_unsupported">Perangkat ini tidak dapat mengenkode konfigurasi keluaran yang dipilih.</string>
+    <string name="error_decoder_config_unsupported_details">Perangkat ini tidak dapat mendekode konfigurasi video sumber ini (%1$dx%2$d @ %3$.1ffps, %4$s).</string>
+    <string name="error_encoder_config_unsupported_details">Perangkat ini tidak dapat mengenkode pengaturan keluaran yang dipilih. Yang dicoba: %1$s.</string>
+    <string name="warning_codec_fallback_h264">Codec yang Anda pilih tidak didukung untuk keluaran ini di perangkat ini. Beralih ke H.264 demi kompatibilitas.</string>
+    <string name="warning_quality_fallback">Perangkat ini tidak dapat mengenkode pengaturan yang Anda pilih. Beralih ke H.264 pada %1$dp dan %2$dfps.</string>
+
+    <!-- Preset Ukuran -->
+    <string name="size_discord">Discord</string>
+    <string name="size_github">GitHub</string>
+    <string name="size_email">Email</string>
+    <string name="size_stories">Stories • Nitro Basic</string>
+    <string name="size_messenger">Messenger • BlueSky</string>
+    <string name="size_nitro">Nitro • Reels</string>
+    <string name="size_twitter">Twitter/X</string>
+    <string name="size_whatsapp">WhatsApp • Telegram</string>
+    <string name="size_tg_premium">TG Premium • Feed</string>
+    <string name="size_x_premium">X Premium</string>
+    <string name="preset_summary_format">%1$s • %2$s • ukuran %3$s • audio %4$s</string>
+
+    <string name="unit_gb">GB</string>
+    <string name="unit_mb">MB</string>
+    <string name="unit_kb">KB</string>
+
+    <!-- Resolusi -->
+    <string name="res_8k">8K</string>
+    <string name="res_4k">4K</string>
+    <string name="res_2k">2K</string>
+    <string name="res_1080p">1080p</string>
+    <string name="res_720p">720p</string>
+    <string name="res_540p">540p</string>
+    <string name="res_480p">480p</string>
+    <string name="res_three_quarters">¾</string>
+    <string name="res_half">½</string>
+    <string name="res_quarter">¼</string>
+
+    <string name="compression_failed_title">Kompresi Gagal</string>
+    <string name="compression_larger_error">Video hasil kompresi lebih besar dari aslinya.\nVideo mungkin sudah sangat terkompresi atau memiliki bitrate yang sangat rendah.</string>
+    <string name="error_huawei_muxer">Masalah ini mungkin disebabkan oleh perangkat Anda. Silakan coba mulai ulang perangkat Anda.</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="save_anyway">Tetap simpan</string>
+
+    <string name="report_error">Laporkan Error</string>
+    <string name="error_details">Detail Error</string>
+    <string name="copy_logs">Salin Log</string>
+    <string name="open_issue_tracker">Laporkan via Email</string>
+    <string name="contact_developer">Hubungi Developer</string>
+    <string name="support_developer">Dukung Developer</string>
+    <string name="open_source_licenses">Lisensi sumber terbuka</string>
+
+    <string name="info_content_desc">Info</string>
+    <string name="tab_presets">Preset</string>
+    <string name="tab_video">Video</string>
+    <string name="tab_audio">Audio</string>
+
+    <!-- Layar Pengaturan -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="search_settings_hint">Cari pengaturan</string>
+    <string name="search_icon_desc">Cari</string>
+    <string name="clear_search_desc">Hapus pencarian</string>
+    <string name="no_settings_found">Pengaturan tidak ditemukan</string>
+    <string name="about_compressor_title">Tentang Mampat</string>
+    <string name="basic_info_header">Info Dasar</string>
+    <string name="display_settings_title">Umum</string>
+    <string name="general_settings_title">Umum</string>
+    <string name="settings_content_desc">Pengaturan</string>
+    <string name="back">Kembali</string>
+
+    <string name="category_general_subtitle">Simpan otomatis, lokasi simpan, bitrate, satuan</string>
+    <string name="category_display_subtitle">Simpan otomatis, lokasi simpan, bitrate, satuan</string>
+    <string name="category_presets_subtitle">Opsi konfigurasi preset</string>
+    <string name="category_video_subtitle">Atur pengaturan video bawaan</string>
+    <string name="category_audio_subtitle">Atur pengaturan audio bawaan</string>
+    <string name="version_format">Versi %1$s</string>
+
+    <string name="header_basic_info">Info dasar</string>
+    <string name="header_hardware_codecs">Perangkat keras &amp; codec</string>
+    <string name="header_links_actions">Tautan &amp; tindakan</string>
+    <string name="info_app_name">Nama aplikasi</string>
+    <string name="info_app_version">Versi aplikasi</string>
+    <string name="codecs_supported_count">%1$d codec didukung di perangkat ini</string>
+    <string name="enable_all_codecs">Aktifkan semua codec</string>
+    <string name="software_encoding">Enkode Perangkat Lunak</string>
+    <string name="software_encoding_warning_desc">Peringatan Enkode Perangkat Lunak</string>
+    <string name="disable_all_codecs_first">Nonaktifkan semua codec terlebih dahulu</string>
+
+    <string name="header_general_options">Opsi umum</string>
+    <string name="header_display_options">Opsi tampilan</string>
+    <string name="auto_save_photos_title">Simpan otomatis</string>
+    <string name="auto_save_photos_subtitle">Simpan video terkompresi secara otomatis setelah kompresi selesai</string>
+    <string name="output_location_title">Lokasi simpan</string>
+    <string name="output_location_default">Galeri (Movies/Mampat)</string>
+    <string name="output_location_subtitle">Tempat video terkompresi disimpan secara bawaan</string>
+    <string name="output_location_reset_title">Gunakan bawaan (Galeri)</string>
+    <string name="output_location_reset_subtitle">Setel ulang lokasi simpan ke Movies/Mampat</string>
+
+    <string name="filename_builder_title">Pembuat nama file</string>
+    <string name="filename_builder_subtitle">Seret dan lepas chip untuk mengatur ulang, menambah, dan menghapus.</string>
+    <string name="filename_placeholder_prefix">awalan…</string>
+    <string name="filename_placeholder_suffix">akhiran…</string>
+    <string name="filename_drag_release_remove">Lepaskan di luar kotak untuk menghapus chip</string>
+    <string name="filename_drag_over_reorder">Seret ke posisi lain untuk mengurutkan ulang</string>
+    <string name="filename_drag_release_add">Lepaskan untuk menambahkan chip di sini</string>
+    <string name="filename_drag_into_area">Seret chip ke area ini</string>
+    <string name="filename_available_chips_title">Chip dinamis yang tersedia (seret &amp; lepas ke area di atas)</string>
+    <string name="filename_all_chips_added">Semua chip yang tersedia sudah ditambahkan.</string>
+    <string name="filename_prefix_label">Awalan</string>
+    <string name="filename_prefix_placeholder">Masukkan awalan...</string>
+    <string name="filename_active_tokens_title">Token terpilih</string>
+    <string name="filename_available_tokens_title">Ketuk untuk menambah token</string>
+    <string name="filename_preview_label">Pratinjau:</string>
+    <string name="filename_reset_button">Setel ulang format nama file</string>
+
+    <string name="token_original_name">Nama Asli</string>
+    <string name="token_compressed">Terkompresi</string>
+    <string name="token_date">Tanggal</string>
+    <string name="token_time">Waktu</string>
+    <string name="token_random">Angka Acak</string>
+    <string name="token_resolution">Resolusi</string>
+    <string name="token_framerate">Frame Rate</string>
+    <string name="token_bitrate">Bitrate Video</string>
+    <string name="token_audio_bitrate">Bitrate Audio</string>
+    <string name="token_encoding">Pengodean</string>
+    <string name="token_audio_status">Status Audio</string>
+    <string name="token_preset">Preset</string>
+    <string name="save_to_folder">Simpan</string>
+    <string name="show_bitrate_subtitle">Tampilkan nilai bitrate pada ukuran asli dan perkiraan</string>
+    <string name="bitrate_unit_mbps_subtitle">Tampilkan bitrate dalam Mbps</string>
+    <string name="bitrate_unit_kbps_subtitle">Tampilkan bitrate dalam kbps</string>
+    <string name="show_storage_saved_title">Tampilkan penyimpanan yang dihemat di halaman utama</string>
+    <string name="show_storage_saved_subtitle">Tampilkan total ruang penyimpanan yang dihemat di bagian bawah layar utama</string>
+    <string name="show_target_size_preset_title">Tampilkan preset ukuran target</string>
+    <string name="show_target_size_preset_subtitle">Tampilkan tab preset kualitas saat menyiapkan video</string>
+
+    <string name="placeholder_video_desc">Opsi bawaan kompresi video dan codec akan hadir di pembaruan mendatang.</string>
+    <string name="placeholder_audio_desc">Opsi bawaan bitrate dan kanal audio akan hadir di pembaruan mendatang.</string>
+    <string name="placeholder_presets_desc">Opsi bawaan konfigurasi preset akan hadir di pembaruan mendatang.</string>
+
+    <string name="are_you_sure">Apakah Anda yakin?</string>
+    <string name="enable_all_codecs_warn_dialog">Mengaktifkan semua codec dapat menyebabkan performa buruk, kegagalan enkode, perang termonuklir, baterai meleleh, dan tangan yang terasa sangat hangat</string>
+    <string name="warn_battery_life">Saya BENCI baterai yang awet</string>
+    <string name="warn_hands_melt">Saya SUKA kalau tangan saya meleleh</string>
+    <string name="warn_time">Waktu bukan masalah</string>
+    <string name="warn_crashes">Saya SUKA kalau aplikasi terus-menerus crash</string>
+    <string name="warn_bug_reports">Saya TIDAK AKAN membuat laporan bug selama ini aktif</string>
+    <string name="warning_count">%1$d Peringatan - Ketuk untuk Detail</string>
+    <string name="step_away_codecs">Tinggal %1$d langkah lagi untuk mengaktifkan semua codec.</string>
+    <string name="info_device">Perangkat</string>
+    <string name="info_android">Versi Android</string>
+    <string name="info_chipset">Chipset / SoC</string>
+    <string name="info_ram">RAM</string>
+    <string name="info_gpu">GPU</string>
+    <string name="header_device_workarounds">Solusi khusus perangkat</string>
+    <string name="workaround_mediatek_vbr">VBR paksa MediaTek</string>
+    <string name="workaround_pixel10_hdr">Tone-Map HDR Seri Pixel 10</string>
+    <string name="workaround_huawei_muxer">Cadangan Muxer Huawei</string>
+    <string name="workaround_none">Tidak ada</string>
+    <string name="info_supported_codecs">Codec yang Didukung</string>
+
+    <!-- Manajemen Preset -->
+    <string name="reset_to_default">Setel Ulang ke Bawaan</string>
+    <string name="add_preset">Tambah Preset</string>
+    <string name="reset_presets_to_default">Setel Ulang Preset ke Bawaan</string>
+    <string name="reset_presets_confirm_title">Setel Ulang Preset Ukuran Target?</string>
+    <string name="reset_presets_confirm_message">Tindakan ini akan memulihkan semua preset ukuran target bawaan dan menghapus yang kustom.</string>
+    <string name="add_size_preset_title">Tambah Preset Ukuran</string>
+    <string name="edit_size_preset_title">Ubah Preset Ukuran</string>
+    <string name="preset_label_hint">Label Preset (mis. Discord, Email)</string>
+    <string name="target_size_mb_hint">Ukuran Target (dalam MB)</string>
+    <string name="preset_dialog_title">Preset %1$s</string>
+    <string name="target_size_ratio_label">Rasio Ukuran Target: %1$d%%</string>
+
+    <!-- Pengaturan Video &amp; Audio -->
+    <string name="header_default_video_options">Opsi Video Bawaan</string>
+    <string name="header_default_audio_options">Opsi Audio Bawaan</string>
+    <string name="default_video_codec">Codec Video Bawaan</string>
+    <string name="default_video_codec_desc">Pilih encoder video bawaan untuk kompresi baru</string>
+    <string name="default_resolution">Resolusi Bawaan</string>
+    <string name="default_framerate">Frame Rate Bawaan</string>
+    <string name="default_size_ratio">Rasio Ukuran Target Bawaan</string>
+    <string name="default_audio_bitrate">Bitrate Audio Bawaan</string>
+    <string name="default_mute_audio">Bisukan Audio Secara Bawaan</string>
+    <string name="default_mute_audio_desc">Hapus trek audio dari video baru secara otomatis</string>
+    <string name="default_audio_volume">Volume Audio Bawaan</string>
+    <string name="reset_video_defaults">Setel Ulang Bawaan Video</string>
+    <string name="reset_audio_defaults">Setel Ulang Bawaan Audio</string>
+
+    <!-- Dialog Yang Baru -->
+    <string name="whats_new_title">Yang baru di Mampat</string>
+    <string name="whats_new_version">Versi %1$s</string>
+    <string name="whats_new_button">Mengerti</string>
+    <string name="whats_new_1_title">Aksesibilitas Lebih Baik</string>
+    <string name="whats_new_1_desc">Mampat kini menyesuaikan dengan baik di ukuran layar atau font apa pun</string>
+    <string name="whats_new_2_title">Perbaikan Bug</string>
+    <string name="whats_new_2_desc">Lebih banyak bug dibereskan agar Mampat tetap stabil</string>
+</resources>
