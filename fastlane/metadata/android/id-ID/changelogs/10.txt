@@ -1,0 +1,10 @@
+Mampat 1.3.0 menambahkan fitur baru:
+
+- Dukungan Codec AV1 untuk kompresi super efisien
+- Pagar pengaman bitrate yang lebih baik untuk mencegah file menjadi lebih besar dari sebelumnya
+- Bagian info baru berisi informasi perangkat, versi Android, versi aplikasi, codec yang didukung, dan tombol bitrate video.
+
+Perbaikan Bug:
+
+- Memperbaiki tampilan tablet untuk layar kompresi selesai
+- Menghapus fungsi yang tidak terpakai untuk merapikan kode
