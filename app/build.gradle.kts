@@ -26,6 +26,8 @@ android {
 
     buildTypes {
         release {
+            // Ditandatangani dengan kunci debug agar APK release langsung bisa dipasang.
+            signingConfig = signingConfigs.getByName("debug")
             isMinifyEnabled = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
