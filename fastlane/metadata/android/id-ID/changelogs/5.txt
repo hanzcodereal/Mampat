@@ -1,0 +1,4 @@
+- Menambahkan dukungan menu Bagikan
+- Menambahkan preset Ukuran Target
+- Menambahkan penghitung Total Ruang yang Dihemat di layar utama
+- Memperbaiki penyimpanan ke Galeri yang tidak berfungsi di Android 9 ke bawah
