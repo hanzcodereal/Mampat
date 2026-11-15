@@ -1,0 +1,4 @@
+Mampat 1.6.4 adalah pembaruan kecil. Berikut yang berubah:
+
+- Peningkatan Performa: Mampat kini lebih cepat dari sebelumnya, terutama di Android 13+ berkat peningkatan performa di balik layar
+- Perbaikan Bug & Regresi: Memperbaiki berbagai bug dan regresi dari versi lama
