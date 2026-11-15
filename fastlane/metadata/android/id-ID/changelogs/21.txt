@@ -1,0 +1,1 @@
+Mampat 1.5.6 adalah rilis patch tunggal untuk memperbaiki regresi di 1.5.5 yang membuat aplikasi rusak bagi pengguna Mediatek.
