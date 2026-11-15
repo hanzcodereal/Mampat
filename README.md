@@ -58,13 +58,13 @@ Suka dengan Mampat? Dukung pengembangannya lewat [Saweria](https://saweria.co/ha
 1. Pasang Android Studio versi terbaru dan JDK 17.
 2. Buka folder proyek ini di Android Studio.
 3. Tunggu sinkronisasi Gradle selesai.
-4. Jalankan perintah berikut untuk membuat APK debug:
+4. Jalankan perintah berikut untuk membuat APK release:
 
 ```bash
-./gradlew assembleDebug
+./gradlew assembleRelease
 ```
 
-APK hasil build ada di `app/build/outputs/apk/debug/`.
+APK hasil build ada di `app/build/outputs/apk/release/` dengan nama `app-release-unsigned.apk` (belum ditandatangani).
 
 ---
 
