@@ -1,0 +1,10 @@
+Mampat 1.5.7 menambahkan fitur berikut:
+
+- Terjemahan bahasa baru
+- Slider logaritmik untuk ukuran target
+
+Perbaikan Bug:
+
+- Memperbaiki kompresi/volume audio
+- Memperbaiki bug slider ukuran target yang mengganggu
+- Memperbaiki masalah penyimpanan ke galeri di thread utama yang menyebabkan ANR di perangkat kelas bawah
