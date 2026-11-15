@@ -1,0 +1,8 @@
+Mampat 1.5.2 menambahkan fitur baru:
+- Resolusi, frame rate, dan bitrate audio kini naik dan turun mengikuti ukuran target
+- Tautan kontak developer di tab info
+
+Perbaikan Bug:
+- Memperbaiki masalah tone-mapping HDR di perangkat Tensor G5 untuk video dengan ruang warna BT.2020 dan HLG saat mengenkode ke H.264 atau H.265
+- Memperbaiki jendela laporan bug yang tidak bisa digulir
+- Memperbaiki build yang dapat direproduksi
