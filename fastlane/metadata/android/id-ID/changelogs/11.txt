@@ -1,0 +1,9 @@
+Mampat 1.3.1 menambahkan fitur baru:
+
+- Menambahkan opsi untuk menghapus audio dari video saat dikompres
+- Menambahkan opsi resolusi 3/4, 1/2, 1/4, dan 540p
+- Menambahkan tombol bagikan di jendela info
+
+Perbaikan Bug:
+
+- Memperbaiki resolusi video vertikal yang dihitung dengan salah
