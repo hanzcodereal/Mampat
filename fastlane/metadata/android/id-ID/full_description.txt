@@ -1,0 +1,25 @@
+<b>Mampat</b> adalah kompresor video native yang super cepat, bebas iklan, dan sangat ringan.
+
+Berbeda dengan aplikasi lain yang memakai FFmpeg versi lama yang lambat dan besar dengan enkode perangkat lunak, Mampat memakai <b>Akselerasi Perangkat Keras Media3</b> bawaan Android untuk memproses video lebih cepat dari aplikasi lain.
+
+
+<b>Fitur:</b>
+
+- Lebih cepat dari semua aplikasi kompresi lain di Play Store. Titik.
+- Memakai pustaka Media3 bawaan, bukan pembungkus FFmpeg yang lambat dan besar
+- Tanpa pustaka pihak ketiga
+- Tanpa izin yang invasif (tanpa penyimpanan, tanpa internet, dll.)
+- Bebas iklan
+- Sangat ringan (< 10MB)
+- Sepenuhnya native Kotlin
+- Tampilan sederhana dan bersih
+- Berjalan di Android 7.0 ke atas.
+
+
+<b>Mengapa aplikasi ini dibuat?</b>
+
+Kebanyakan kompresor hanyalah pembungkus perangkat lunak lama yang penuh iklan. Mampat ditulis 100% dengan Kotlin, dirancang menjadi alat paling bersih dan paling cepat untuk pekerjaan ini.
+
+<b>Developer:</b> Hanz Dev Official
+<b>Kontak:</b> hanzzcodee@gmail.com
+<b>Dukung:</b> https://saweria.co/hanzreally
