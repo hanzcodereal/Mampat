@@ -1,0 +1,18 @@
+Mampat 1.6.0 adalah pembaruan besar, menambahkan fitur berikut:
+
+- Ikon baru yang keren
+- Font Google Sans baru & perubahan UI ringan
+- Info digantikan oleh layar Pengaturan yang baru
+- Video hasil kompresi kini disimpan otomatis secara bawaan (khusus Android 10+, dapat dinonaktifkan di Pengaturan)
+- Lokasi simpan dapat diubah dari Pengaturan
+- Preset Ukuran Target & Total penyimpanan yang dihemat dapat disembunyikan dari Pengaturan
+- Preset Kualitas dapat diubah, serta Preset Ukuran Target dapat diubah, dihapus, dan dibuat dari Pengaturan
+- Pengaturan Video & Audio bawaan dapat diubah dari Pengaturan
+- Dukungan Gestur Kembali Prediktif telah ditambahkan
+- Seluruh basis kode direfaktor agar lebih mudah dirawat & efisien
+
+Perbaikan Bug:
+
+- Memperbaiki berbagai masalah terkait error encoder Media3
+
+Karena ini pembaruan besar, Mampat 1.6.0 mungkin memiliki bug atau masalah. Jika Anda menemukannya, silakan kirim email ke hanzzcodee@gmail.com
