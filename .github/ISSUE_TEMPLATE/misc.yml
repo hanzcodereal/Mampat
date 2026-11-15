@@ -1,0 +1,12 @@
+name: Lainnya
+description: Masalah saya tidak termasuk kategori mana pun
+title: "[LAINNYA] "
+labels: ["Misc", "Triage"]
+body:
+  - type: textarea
+    id: issue_content
+    attributes:
+      label: "Isi Laporan"
+      description: "Mohon perbarui judul laporan dan tulis isi laporan Anda di bawah."
+    validations:
+      required: true
