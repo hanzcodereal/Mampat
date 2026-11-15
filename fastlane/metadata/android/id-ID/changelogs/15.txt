@@ -1,0 +1,14 @@
+Mampat 1.5.0 menambahkan fitur baru:
+- Data EXIF kini dipertahankan saat mengompres video
+- Tampilan bertab yang baru dan lebih bersih untuk ponsel dan tampilan 2 panel untuk tablet
+- Antarmuka secara keseluruhan lebih responsif, dengan haptik, animasi, dan penghalusan
+- Kemampuan mengatur volume video akhir
+- Preset yang tidak berlaku kini diredupkan, bukan disembunyikan
+- Menambahkan layar error baru untuk merinci error dengan jelas saat terjadi
+- Tombol 'Laporkan Bug'
+- Video hasil kompresi yang lebih besar dari aslinya kini dihitung gagal, dengan opsi untuk tetap menyimpan
+- Log kini mudah disalin ke papan klip dari jendela 'Laporkan Bug'
+
+Perbaikan Bug:
+- Memperbaiki konsistensi chip Bitrate Audio Asli dengan chip lainnya
+- Orientasi kini terkunci ke potret dengan benar di ponsel
