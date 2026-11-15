@@ -1,0 +1,4 @@
+Mampat 1.1.2 menambahkan fitur baru:
+
+- Dukungan terjemahan
+- Bitrate video hasil kompresi tidak lagi bisa melebihi aslinya yang membuat video lebih besar dari aslinya
