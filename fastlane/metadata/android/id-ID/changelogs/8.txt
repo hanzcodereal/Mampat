@@ -1,0 +1,3 @@
+Mampat 1.1.3 adalah rilis perbaikan bug:
+
+- Perbaikan penerapan bahasa pada aplikasi
