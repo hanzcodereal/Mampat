@@ -1,0 +1,7 @@
+Mampat 1.5.3 menambahkan fitur baru:
+- Mampat kini mendeteksi apakah perangkat Anda dapat mendekode video sumber atau tidak, dan gagal dengan baik
+- Penyesuaian kualitas otomatis yang lebih baik
+- Menghapus impor dan kode yang tidak terpakai
+
+Perbaikan Bug:
+- Memperbaiki regresi resolusi video vertikal dari 1.5.2
