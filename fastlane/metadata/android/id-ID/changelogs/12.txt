@@ -1,0 +1,6 @@
+Mampat 1.3.2 adalah rilis perbaikan bug:
+
+- Encoder perangkat lunak H.265 dan AV1 yang berpura-pura menjadi encoder perangkat keras kini disembunyikan dengan benar
+- Memperbaiki splash screen yang berwarna terang saat memakai mode gelap
+- Memperbaiki ikon bertema untuk perangkat non-Pixel
+- Total ruang yang dihemat kini ditampilkan dengan benar dalam GB setelah mencapai 1000 MB
