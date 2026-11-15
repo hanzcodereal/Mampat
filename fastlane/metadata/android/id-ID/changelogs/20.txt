@@ -1,0 +1,1 @@
+Mampat 1.5.5 adalah rilis patch tunggal untuk memperbaiki ukuran target di perangkat tertentu dengan memaksa bitrate konstan.
